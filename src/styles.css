@@ -131,7 +131,9 @@ a {
 }
 .user_links:before, .user_links:after {
   position: absolute;
-  content: url(https://raw.githubusercontent.com/PtiteMadeleine/itchio-profile/refs/heads/main/assets/PP.jpg);
+  content: "";
+    background-image: url(https://raw.githubusercontent.com/PtiteMadeleine/itchio-profile/refs/heads/main/assets/PP.jpg);
+    background-size: 96px;
 
   height: 96px;
   width: 96px;
