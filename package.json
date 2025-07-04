@@ -1,6 +1,6 @@
 {
-  "name": "ptitemadeleine-itchio-profile",
-  "version": "1.3.0",
+  "name": "nnda-itchio-profile",
+  "version": "1.2.4",
   "private": true,
   "description": "Source code for my itch.io profile page.",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PtiteMadeleine/itchio-profile.git"
+    "url": "git+https://github.com/nndda/itchio-profile.git"
   },
   "author": "nnda",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PtiteMadeleine/itchio-profile/issues"
+    "url": "https://github.com/nndda/itchio-profile/issues"
   },
-  "homepage": "https://github.com/PtiteMadeleine/itchio-profile#readme",
+  "homepage": "https://github.com/nndda/itchio-profile#readme",
   "devDependencies": {
     "@eslint/compat": "^1.3.0",
     "@eslint/js": "^9.28.0",
