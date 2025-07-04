@@ -131,7 +131,7 @@ a {
 }
 .user_links:before, .user_links:after {
   position: absolute;
-  content: url(https://cdn.jsdelivr.net/gh/nndda/itchio-profile@1.2.0/assets/profile.webp);
+  content: url(https://raw.githubusercontent.com/PtiteMadeleine/itchio-profile/refs/heads/main/assets/PP.jpg);
 
   height: 96px;
   width: 96px;
